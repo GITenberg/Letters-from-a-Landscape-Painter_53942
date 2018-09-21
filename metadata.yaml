@@ -1,0 +1,35 @@
+_repo: Letters-from-a-Landscape-Painter_53942
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lanman, Charles
+    birthdate: 1819
+    deathdate: 1895
+    gutenberg_agent_id: '44753'
+    url: http://www.gutenberg.org/2009/agents/44753
+description: ''
+gutenberg_issued: '2017-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53942'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Noble, Louis Legrand, 1813-1882'
+- !lcsh 'Larnard, Lilly'
+- !lcsh 'Painters -- New York (State) -- Biography'
+- !lcsh 'Poets, American -- Biography'
+- !lcsh 'Cole, Thomas, 1801-1848'
+- !lcsh 'East (U.S.) -- Description and travel'
+- !lcc 'PS'
+- !lcsh 'Landscape painters -- United States -- Correspondence'
+- GITenberg
+tableOfContents: Trouting among the Catskills -- A Spring day -- South Peak Mountain
+  -- A sleepless night -- Cole's imaginative paintings -- Lake Horicon -- Burlington
+  -- Trip to Portland -- Moosehead Lake and the Kennebeck -- Lilly Larnard -- Louis
+  L. Noble -- The unhappy stranger -- A week in a fishing smack -- Trip to Watch Hill
+  -- Our New York Painters -- A song of memory.
+title: Letters from a Landscape Painter
+url: http://www.gutenberg.org/ebooks/53942
